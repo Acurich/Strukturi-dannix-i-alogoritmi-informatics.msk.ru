@@ -1,1 +1,1 @@
-# Strukturi-dannix-i-alogoritmi
+Решенеие Курса "Структуры данных и алгоритмы" https://informatics.msk.ru/
